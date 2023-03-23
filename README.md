@@ -1,5 +1,5 @@
 # emesson-bot
-just a bot.
+just a twitch ad view bot.
 there's nothing here.
 
 if you want to use this bot, download from releases, the master isnt complete.
